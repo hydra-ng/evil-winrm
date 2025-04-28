@@ -1,0 +1,5 @@
+evil-winrm (3.7-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Joe <joe@rstrike.my.id>  Mon, 28 Apr 2025 12:58:20 -0400
